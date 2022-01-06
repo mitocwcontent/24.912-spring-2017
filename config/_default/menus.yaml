@@ -1,0 +1,37 @@
+leftnav:
+- identifier: aa0d9596-85ed-13eb-a90d-6eada6b7431f
+  name: Syllabus
+  url: /pages/syllabus
+  weight: 10
+- identifier: 0fc04d10-cf5a-2ac5-e783-8c3cc68ff777
+  name: Instructor Insights
+  url: /pages/instructor-insights
+  weight: 20
+- identifier: 937532cd-8391-09b9-eacc-92b56e08aa42
+  name: Class Videos
+  url: /video_galleries/class-videos
+  weight: 30
+- identifier: e393895e-f4cd-10d1-90cb-ed9fb80b9c63
+  name: Readings
+  url: /pages/readings
+  weight: 40
+- identifier: 53eb06cd-7b3e-79fb-df11-1d7113543de6
+  name: Assignments
+  url: /pages/assignments
+  weight: 50
+- identifier: 4221dc69-ff75-ca0a-ea59-69510fe3a970
+  name: Student Presentations
+  url: /pages/student-presentations
+  weight: 60
+- identifier: e393895e-f4cd-10d1-90cb-ed9fb80b9c63
+  name: Readings
+  url: /pages/readings
+  weight: 70
+- identifier: 53eb06cd-7b3e-79fb-df11-1d7113543de6
+  name: Assignments
+  url: /pages/assignments
+  weight: 80
+- identifier: 4221dc69-ff75-ca0a-ea59-69510fe3a970
+  name: Student Presentations
+  url: /pages/student-presentations
+  weight: 90
